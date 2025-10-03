@@ -1,0 +1,55 @@
+# =========================
+# 📂 BACKEND (Python / FastAPI / Uvicorn)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+*.log
+*.env
+venv/
+env/
+.venv/
+ENV/
+instance/
+.mypy_cache/
+.pytest_cache/
+coverage/
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# =========================
+# 📂 FRONTEND (React / Vercel)
+# =========================
+node_modules/
+build/
+.cache/
+dist/
+.npm/
+.yarn/
+.yarn-integrity
+package-lock.json
+yarn-error.log
+
+# =========================
+# 📂 VERCEL / RENDER
+# =========================
+.vercel/
+.render/
+
+# =========================
+# ⚙️ Sistema
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+.idea/
+.vscode/
