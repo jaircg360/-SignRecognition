@@ -2,7 +2,7 @@
 
 Sistema avanzado de reconocimiento de lenguaje de señas usando MediaPipe, Machine Learning y operaciones matemáticas en tiempo real.
 
-## 🚀 Características
+##  Características
 
 - **Reconocimiento en tiempo real** de vocales, abecedario y números
 - **Operaciones matemáticas** con señas (suma, resta, multiplicación, división)
@@ -10,14 +10,14 @@ Sistema avanzado de reconocimiento de lenguaje de señas usando MediaPipe, Machi
 - **API REST** con FastAPI y MediaPipe
 - **Diseño responsive** para desktop y móvil
 
-## 📋 Prerrequisitos
+##  Prerrequisitos
 
 - Python 3.10+
 - Node.js 16+
 - Cámara web
 - Git
 
-## 🛠️ Instalación y Uso Local
+##  Instalación y Uso Local
 
 ### Backend (Python / FastAPI)
 
@@ -61,7 +61,7 @@ Sistema avanzado de reconocimiento de lenguaje de señas usando MediaPipe, Machi
    npm start
    ```
 
-## 🌐 Uso
+##  Uso
 
 - **Aplicación principal**: http://localhost:3000
 - **API Documentation**: http://localhost:8000/docs
@@ -119,7 +119,7 @@ Para desplegar en **Vercel** (frontend) y **Render** (backend):
 # Frontend (Vercel): REACT_APP_API_URL=https://tu-backend.onrender.com
 ```
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 wa/
@@ -143,7 +143,7 @@ wa/
 └── DEPLOYMENT.md               # Guía de despliegue
 ```
 
-## 🐛 Solución de Problemas
+##  Solución de Problemas
 
 ### Problemas Comunes:
 
@@ -159,13 +159,13 @@ wa/
    - Necesitas al menos 10 muestras por clase
    - Verifica que las manos sean detectadas correctamente
 
-## 📞 Soporte
+##  Soporte
 
 Para problemas o preguntas:
 1. Revisa los logs en la consola del navegador
 2. Verifica la documentación de la API en `/docs`
 3. Consulta la guía de despliegue en `DEPLOYMENT.md`
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto está desarrollado para fines educativos y de investigación.
